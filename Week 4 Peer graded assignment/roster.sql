@@ -79,21 +79,21 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `name`) VALUES
-(2, 'Aaliyah'),
-(3, 'Dillan'),
-(12, 'Eilidh'),
-(13, 'Ellis'),
-(4, 'Dora'),
-(11, 'Tylor'),
-(7, 'Adana'),
-(8, 'Aneshka'),
-(9, 'Malayka'),
-(10, 'Mei'),
-(14, 'Iria'),
-(6, 'Margaret'),
-(5, 'Hema'),
-(15, 'Yva'),
-(1, 'Natividad');
+(2, 'Innes'),
+(3, 'Allannah'),
+(12, 'Faiza'),
+(13, 'Hiro'),
+(4, 'Saraah'),
+(11, 'Sami'),
+(7, 'Daithi'),
+(8, 'Nidba'),
+(9, 'Nikos'),
+(10, 'Oluwatimilehin'),
+(14, 'Schekina'),
+(6, 'Chiara'),
+(5, 'Diesel'),
+(15, 'Leonardo'),
+(1, 'Serena');
 
 /*
 Natividad, si106, Instructor
